@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Saarathi" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/ember_background</item>
+        <item name="android:statusBarColor">@color/ember_background</item>
+        <item name="android:navigationBarColor">@color/ember_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+
+    <style name="Theme.Saarathi.Splash" parent="Theme.Saarathi">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+</resources>

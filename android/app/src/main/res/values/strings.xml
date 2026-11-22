@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Saarathi</string>
+    <string name="tagline">Every Arjuna needs a Saarathi.</string>
+    <string name="companion_name">Krishna</string>
+    <string name="companion_subtitle">Your Saarathi</string>
+    <string name="composer_hint">Speak your heart, Vats…</string>
+    <string name="offline_badge">Offline</string>
+    <string name="disclaimer_short">An AI interpretation inspired by Krishna\'s teachings. Not a literal divine presence.</string>
+</resources>
