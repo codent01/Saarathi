@@ -18,6 +18,22 @@
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/onboarding.png" alt="Onboarding" width="250"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/chat.png" alt="Chat with Krishna" width="250"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/setup.png" alt="Offline Setup" width="250"/>
+</p>
+
+<p align="center">
+  <em>Onboarding · Chat with Krishna · Offline Model Setup</em>
+</p>
+
+---
+
 ## What is Saarathi?
 
 **Saarathi** (सारथी — "charioteer") is a fully offline Android app that lets you have meaningful conversations with an AI persona inspired by Lord Krishna's teachings from the **Bhagavad Gita** and **Mahabharata**. 
